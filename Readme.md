@@ -24,7 +24,7 @@ This project is a simple web application that allows users to:
 
 1. Clone this repository:
    ```sh
-   git clone https://github.com/DevenderKThakur/Web-Dev-Cohort/tree/main/javascript/Assignment-01
+   git clone https://github.com/DevenderKThakur/Quote-Genrator.git
    ```
 2. Open the `index.html` file in your browser.
 3. The API data will be fetched and displayed automatically.
@@ -60,7 +60,7 @@ This project is a simple web application that allows users to:
 <img src="Screenshot (3).png">
 
 
-
+<a href = "https://beautiful-dasik-91d8a4.netlify.app/" >Link to the Project</a>
 
 ---
 
